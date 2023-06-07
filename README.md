@@ -1,7 +1,7 @@
 # hello-world
 Hello world is a demo repo to learn about GitHub repo creating. 
 ---
-(this repo is only for my personal learning, if you want to learn about GitHub and Git --> jump to end of this file and click the source ;) )
+(this repo is only for my personal learning, if you want to learn about GitHub and Git --> jump to the end of this file and click the source ;) )
 ## A repository
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets -- anything your project needs. Often, repositories include a README file, a file with information about your project. 
 
