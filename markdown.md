@@ -51,8 +51,8 @@ Some basic Git commands are:
 git status
 git add
 git commit
+
 ```
-Triple backticks make your ticked text be available for copying.
 ---
 Next! is supported color models, links, sections links, relative links, images, lists, task lists, mentioning people and teams, referencing issues and pull requests,
 referencing external resources, uploading assets, using emoji, prargraphs, footnotes, hiding content with comments, disabling markdown rendering and further reading!.
