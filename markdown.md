@@ -54,6 +54,12 @@ git commit
 
 ```
 ---
+
+# Images:
+You can display an image by adding ! and wrapping the alt text in [ ]. Alt text is a short text equivalent of the information in the image. Then, wrap the link for the image in parentheses ().
+ !["a quoute by Ralph Waldo Emerson says: "The only person you are destined to become is the person you decide to be."](https://github.com/zagrosjawar/hello-world/blob/main/Screen%20Shot%202023-06-08%20at%2010.16.33.png)
+ 
+---
 Next! is supported color models, links, sections links, relative links, images, lists, task lists, mentioning people and teams, referencing issues and pull requests,
 referencing external resources, uploading assets, using emoji, prargraphs, footnotes, hiding content with comments, disabling markdown rendering and further reading!.
 
