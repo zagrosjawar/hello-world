@@ -19,3 +19,8 @@ def factorial(n):
 result = factorial(5)
 print(result)  # Output: 120
 
+
+
+def double(n):
+    return n*n
+
