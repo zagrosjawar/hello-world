@@ -14,3 +14,8 @@ def factorial(n):
     
     # Recursive case: factorial of n is n multiplied by factorial of (n-1)
     return n * factorial(n - 1)
+
+
+result = factorial(5)
+print(result)  # Output: 120
+
