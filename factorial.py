@@ -24,3 +24,9 @@ print(result)  # Output: 120
 def double(n):
     return n*n
 
+
+
+def git():
+    print("git init, git clone, git add, git commit, git status, git branch, git merge, git pull, git push")
+
+
